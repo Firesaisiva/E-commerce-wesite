@@ -656,5 +656,43 @@ const products = [
       "apparel",
       "mens"
     ]
+  },{
+    id:"id1",
+    image:"images/products/iphone.jpg",
+    name:"Apple iphone15",
+    rating:{
+      stars: 4.5,
+      count: 4000
+    },
+    
+    priceCents: 100000,
+    
+
+  },
+  {
+    id:"id2",
+    image:"images/products/bottels.jpg",
+    name:"stainless steel bottles",
+    rating:{
+      stars: 4.0,
+      count: 315
+    },
+    
+    priceCents: 2400,
+    
+
+  },
+  {
+    id:"id3",
+    image:"images/products/airpods.jpg",
+    name:"Airpods",
+    rating:{
+      stars: 4.5,
+      count: 315
+    },
+    
+    priceCents: 24000,
+   
+
   }
 ];
