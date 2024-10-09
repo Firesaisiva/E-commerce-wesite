@@ -84,6 +84,7 @@ function updateCartQuantity(){
 
   });
 }
+updateCartQuantity();
 
 
 
