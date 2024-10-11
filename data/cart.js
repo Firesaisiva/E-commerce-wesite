@@ -76,6 +76,8 @@ export function removeFromCart(productId){
   
     return cartQuantity;
   }
+
+  
   export function updateQuantity(productId, newQuantity) {
     let matchingItem;
   
